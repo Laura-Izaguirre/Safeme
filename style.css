@@ -76,3 +76,65 @@ form {
   letter-spacing: 0.1rem ;
 
 }
+
+.javascript {
+  display: flex;
+  justify-content: center;
+}
+
+.target {
+  width: 84vw;
+  display: flex;
+  margin-top: 4rem;
+  font-family: 'Roboto', sans-serif;
+  color: rgb(34, 30, 30);
+  box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+}
+
+.border-bottom {
+  border-bottom: 0.1rem rgb(185, 183, 183) solid;
+  font-size: 1.2rem;
+}
+
+#woman-image {
+  width: 10vw;
+  border-radius: 60%;
+}
+
+.picture {
+  background: linear-gradient(to right, #eb5348, #d84f66, #c74f73, #b14d87, #94499a, #8249aa, #7147b5, #5d44c3);;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-right: 3vw;
+  width: 30vw;
+  padding: 4rem 0;
+
+}
+
+#picture-title {
+  padding-top: 3rem;
+  padding-bottom: 0.5rem;
+}
+
+.div-item {
+  padding-right: 10vw;
+}
+
+.info {
+  width: 51vw;
+  padding: 1.5rem 0;
+}
+
+.info-title {
+  padding: 1.5rem 0;
+}
+
+.div-row {
+  display: flex;
+}
