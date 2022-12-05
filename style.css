@@ -59,15 +59,13 @@ form {
 
 .input:focus {
   outline: none;
-  font-family: 'Roboto', sans-serif;
-  font-weight: bold;
   color: rgb(22, 20, 20);
 }
 
 #about-input {
 }
 
-#submit-input {
+#submit {
   padding: 0.5rem 4rem;
   border: none;
   color: white;
